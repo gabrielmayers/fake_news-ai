@@ -13,3 +13,7 @@ I took the data from [Kaggle](https://www.kaggle.com/), you can access the data 
 ## Predictions:
 
 The **predictions** are based only in the title of news!
+
+## Results:
+
+![results](https://github.com/gabrielmayers/fake_news-ai/blob/master/results.png)

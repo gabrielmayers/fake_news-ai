@@ -1,6 +1,6 @@
 # fake_news-ai
 
-Detecting Fake News using Neural Networks 😡
+Detecting Fake News using Neural Networks 😱
 
 ## How These Works:
 

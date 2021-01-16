@@ -10,7 +10,7 @@ You can read more about this project [here](https://medium.com/analytics-vidhya/
 
 ## Data Source:
 
-I took the data from [Kaggle](https://www.kaggle.com/), you can access the data [here](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset).
+I took the data from [Kaggle](https://www.kaggle.com/), you can access the data [here](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 
 ## Predictions:
 
